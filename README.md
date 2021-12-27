@@ -1,13 +1,13 @@
 # Kickstarter-Challenge
 Performing Analysis on kickstarter data to uncover trends
 
-# Outcomes based on Goals
+## Outcomes based on Goals
 ![goals](Outcomes_vs_Goals.png)
 
-# Theater Outcomes by Launch Date
+## Theater Outcomes by Launch Date
 ![date](Theater_Outcomes_vs_Launch.png)
 
-# My Analysis
+# Analysis
 ## Overview of Project
 To analyze what the data is telling us and get the information we exactly need. We wanted to see the numbers for the outcomes(successul, failed, and canceled) under Theater category by Launch date and wanted to see how the outcomes look like based on the goals.
 
